@@ -31,7 +31,7 @@ import time
 import math
 
 
-def main(): 
+def main():
     """ Calls the   TEST   functions in this module. """
     run_test_problem1a()
     run_test_problem1b()
